@@ -4,11 +4,11 @@
 	CONFIGURATION
 	********************************************************************************************
 */
-// expéditeur du dormulaire. Pour des raisons de sécurité, de plus en plus d'hébergeurs imposent que ce soit une adresse sur votre hébergement/nom de domaine.
+// expéditeur du formulaire. Pour des raisons de sécurité, de plus en plus d'hébergeurs imposent que ce soit une adresse sur votre hébergement/nom de domaine.
 // Par exemple si vous mettez ce script sur votre site "test-site.com", mettez votre email @test-site.com comme expéditeur (par exemple contact@test-site.com)
 // Si vous ne changez pas cette variable, vous risquez de ne pas recevoir de formulaire.
-$email_expediteur = 'moi@monsite.com';
-$nom_expediteur = 'Contact Monsite.com';
+$email_expediteur = 'youssef2003elalami@gmail.com';
+$nom_expediteur = 'Contact youssefelalami.me';
  
 // destinataire est votre adresse mail (cela peut être la même que cl'expéditeur ci-dessus). Pour envoyer à plusieurs destinataires à la fois, séparez-les par un point-virgule
 $destinataire = 'youssef2003elalami@gmail.com';
