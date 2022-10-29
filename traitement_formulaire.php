@@ -21,7 +21,7 @@ $message_envoye = "Votre message nous est bien parvenu !";
 $message_non_envoye = "L'envoi du mail a échoué, veuillez réessayer SVP.";
  
 // Messages d'erreur du formulaire
-$message_erreur_formulaire = "Vous devez d'abord <a href=\"contact.html\">envoyer le formulaire</a>.";
+$message_erreur_formulaire = "Vous devez d'abord <a href=\"index.html\">envoyer le formulaire</a>.";
 $message_formulaire_invalide = "Vérifiez que tous les champs soient bien remplis et que l'email soit sans erreur.";
  
 /*
